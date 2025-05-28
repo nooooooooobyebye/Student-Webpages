@@ -34,7 +34,7 @@ My portfolio site includes:
 ## Links
 
 - [GitHub Repository](https://github.com/nooooooooobyebye/Final-Project5)  
-- [Live Site on GitHub Pages](https://nooooooooobyebye.github.io/Final-Project5/)
+- [Live Website:](https://nooooooooobyebye.github.io/Final-Project5/)
 
 ---
 
